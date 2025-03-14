@@ -27,7 +27,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: guovern/iptv-api:latest
+          tags: guovern/iptv-api:1.6.2
           platforms: linux/amd64,linux/arm64,linux/arm/v7
           build-args: |
             APP_WORKDIR=/iptv-api
@@ -38,7 +38,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: guovern/iptv-api:lite
+          tags: guovern/iptv-api:1.6.2-lite
           platforms: linux/amd64,linux/arm64,linux/arm/v7
           build-args: |
             APP_WORKDIR=/iptv-api-lite
