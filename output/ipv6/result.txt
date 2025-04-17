@@ -765,6 +765,7 @@ Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
 IHOT,#genre#
 IHOT爱电竞,http://yc.myds.me:35455/itv/6000000006000230630.m3u8?cdn=wasusyt
 IHOT爱谍战,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281
+IHOT爱谍战,http://yc.myds.me:35455/itv/6000000006000070630.m3u8?cdn=wasusyt
 IHOT爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
 IHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
 IHOT爱科幻,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281
@@ -796,6 +797,7 @@ NEWTV精品萌宠,http://yc.myds.me:35455/itv/1000000006000032328.m3u8?cdn=ysten
 NEWTV超级电视剧,http://yc.myds.me:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
 NEWTV超级电影,http://yc.myds.me:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
 NEWTV超级综艺,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=YanG-1989
+NEWTV超级综艺,http://yc.myds.me:35455/itv/1000000006000268002.m3u8?cdn=ystenlive
 NEWTV潮妈辣婆,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000018/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000018&livemode=1&stbId=YanG-1989
 NEWTV潮妈辣婆,http://yc.myds.me:35455/itv/2000000003000000018.m3u8?cdn=hnbblive
 NEWTV东北热剧,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000266013/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=YanG-1989

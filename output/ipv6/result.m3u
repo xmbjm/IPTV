@@ -1391,6 +1391,8 @@ http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 http://yc.myds.me:35455/itv/6000000006000230630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="IHOT爱谍战" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IHOT爱谍战.png" group-title="IHOT",IHOT爱谍战
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="IHOT爱谍战" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IHOT爱谍战.png" group-title="IHOT",IHOT爱谍战
+http://yc.myds.me:35455/itv/6000000006000070630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="IHOT爱动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IHOT爱动漫.png" group-title="IHOT",IHOT爱动漫
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="IHOT爱动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IHOT爱动漫.png" group-title="IHOT",IHOT爱动漫
@@ -1449,6 +1451,8 @@ http://yc.myds.me:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
 http://yc.myds.me:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NEWTV超级综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NEWTV超级综艺.png" group-title="NEWTV",NEWTV超级综艺
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="NEWTV超级综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NEWTV超级综艺.png" group-title="NEWTV",NEWTV超级综艺
+http://yc.myds.me:35455/itv/1000000006000268002.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NEWTV潮妈辣婆" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NEWTV潮妈辣婆.png" group-title="NEWTV",NEWTV潮妈辣婆
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000018/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000018&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="NEWTV潮妈辣婆" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NEWTV潮妈辣婆.png" group-title="NEWTV",NEWTV潮妈辣婆
