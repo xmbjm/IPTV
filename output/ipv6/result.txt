@@ -539,6 +539,7 @@ CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u
 山东新闻,http://livealone302.iqilu.com/iqilu/ggpd.m3u8
 山东新闻,http://ls.qingting.fm/live/60180.m3u8
 山东少儿,http://livealone302.iqilu.com/iqilu/sepd.m3u8
+济南新闻综合,https://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
 
 山西频道,#genre#
 
@@ -821,6 +822,7 @@ NEWTV惊悚悬疑,http://yc.myds.me:35455/itv/1000000004000024282.m3u8?cdn=ysten
 NEWTV军旅剧场,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000014&livemode=1&stbId=YanG-1989
 NEWTV军旅剧场,http://yc.myds.me:35455/itv/2000000003000000014.m3u8?cdn=hnbblive
 NEWTV军事评论,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000022/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000022&livemode=1&stbId=YanG-1989
+NEWTV军事评论,http://yc.myds.me:35455/itv/2000000003000000022.m3u8?cdn=hnbblive
 NEWTV明星大片,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=YanG-1989
 NEWTV炫舞未来,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=YanG-1989
 NEWTV炫舞未来,http://yc.myds.me:35455/itv/1000000001000000515.m3u8?cdn=ystenlive

@@ -987,6 +987,8 @@ http://livealone302.iqilu.com/iqilu/ggpd.m3u8
 http://ls.qingting.fm/live/60180.m3u8
 #EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东少儿.png" group-title="山东频道",山东少儿
 http://livealone302.iqilu.com/iqilu/sepd.m3u8
+#EXTINF:-1 tvg-name="济南新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/济南新闻综合.png" group-title="山东频道",济南新闻综合
+https://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西新闻资讯.png" group-title="陕西频道",陕西新闻资讯
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/index.m3u8
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西都市青春.png" group-title="陕西频道",陕西都市青春
@@ -1499,6 +1501,8 @@ http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000014/index.m3u
 http://yc.myds.me:35455/itv/2000000003000000014.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="NEWTV军事评论" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NEWTV军事评论.png" group-title="NEWTV",NEWTV军事评论
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000022/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000022&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="NEWTV军事评论" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NEWTV军事评论.png" group-title="NEWTV",NEWTV军事评论
+http://yc.myds.me:35455/itv/2000000003000000022.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="NEWTV明星大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NEWTV明星大片.png" group-title="NEWTV",NEWTV明星大片
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="NEWTV炫舞未来" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NEWTV炫舞未来.png" group-title="NEWTV",NEWTV炫舞未来
