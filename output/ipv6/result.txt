@@ -820,6 +820,7 @@ CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u
 南京教科,https://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8$订阅源
 南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8$订阅源
 南京教科,https://www.freetv.top/migu/838153729.m3u8?migutoken=68341b05540f514ec344fce1684f8a66005aec759b66a516681cab444a9ba187b5fe8f24736f20a63bce950472d823cb104a3f9b1e3d92a9aaca7c063902981bf22e9689666398fd6a3f36c311
+南京教科,http://z.b.bkpcp.top/m.php?id=njkj
 南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 南京十八,http://z.b.bkpcp.top/m.php?id=njsb$订阅源
 南京十八,https://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8$订阅源
