@@ -1231,6 +1231,8 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227198/index.m3u
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海峡卫视.png" group-title="福建频道",海峡卫视
 http://goo.bkpcp.top/mg/hxws$订阅源
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海峡卫视.png" group-title="福建频道",海峡卫视
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 #EXTINF:-1 tvg-name="甘肃经济" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃经济.png" group-title="甘肃频道",甘肃经济
 https://hls.gstv.com.cn/49048r/10iv1j.m3u8$订阅源
 #EXTINF:-1 tvg-name="甘肃文化影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃文化影视.png" group-title="甘肃频道",甘肃文化影视
