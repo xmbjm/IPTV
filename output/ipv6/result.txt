@@ -699,6 +699,7 @@ CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u
 南宁新闻综合,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d$订阅源
 
 贵州频道,#genre#
+天元围棋,http://wouu.net:9977/udp/239.93.42.55:5140
 
 海南频道,#genre#
 海南新闻,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/1.m3u8$订阅源
@@ -749,6 +750,7 @@ CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u
 金鹰卡通,http://nas.suntao.online:35455/bptv/10000100000000050000000004796942.m3u8
 金鹰卡通,http://dsj.motem.top:8880/bptv/10000100000000050000000004796942.m3u8
 金鹰卡通,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226674/1.m3u8
+金鹰卡通,http://wouu.net:9977/udp/239.93.0.108:5140
 金鹰纪实,http://iptv.huuc.edu.cn/hls/gedocu.m3u8$订阅源
 金鹰纪实,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225595/index.m3u8?fmt=ts2hls$订阅源
 金鹰纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226668/index.m3u8$订阅源
@@ -888,6 +890,7 @@ CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u
 
 四川频道,#genre#
 四川科教,http://tv.scjyhd.com:4022/udp/239.11.0.194:5140
+四川科教,http://wouu.net:9977/udp/239.93.42.44:5140
 
 上海频道,#genre#
 上海新闻综合,http://z.b.bkpcp.top/m.php?id=shxwzh$订阅源
